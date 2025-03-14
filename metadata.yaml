@@ -1,0 +1,41 @@
+_repo: Bog-land-studies_75538
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barlow, Jane
+    aliases:
+    - Barlow, J. (Jane)
+    - Ryark, Felix
+    birthdate: 1856
+    deathdate: 1917
+    gutenberg_agent_id: '6301'
+    url: http://www.gutenberg.org/2009/agents/6301
+    wikipedia: https://en.wikipedia.org/wiki/Jane_Barlow
+description: ''
+edition_note: Third edition
+gutenberg_issued: '2025-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75538'
+language: en
+pgterms:marc904: https://archive.org/details/boglandstudies00barliala/page/n7/mode/2up
+pgterms:marc905: 20230507060444barlow
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bDodd, Mead and Co., $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stories in rhyme'
+- !lcsh 'Ireland -- Poetry'
+- !lcsh 'English poetry -- Irish authors'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'Th'' ould master -- Walled out: or, eschatology in a bog -- Last
+  time at M''Gurk''s: or, Mick Flynn de senectute -- By the bog-hole -- Past praying
+  for: or, the souper''s widow -- Miss Honor''s wedding -- A curlew''s call.'
+title: Bog-land studies
+url: http://www.gutenberg.org/ebooks/75538
